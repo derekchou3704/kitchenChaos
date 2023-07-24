@@ -177,6 +177,17 @@
                 },
                 {
                     "name": "",
+                    "id": "36ecb4fe-3389-45ca-9aa9-3dad58be0b57",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "55026678-500a-4ee6-ac4a-68cfda2a3a56",
                     "path": "<Keyboard>/f",
                     "interactions": "",
@@ -188,8 +199,30 @@
                 },
                 {
                     "name": "",
+                    "id": "4017b307-2aee-43d3-b45b-4a6483237d19",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "InteractAlternate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "caf14e06-9cd7-44b8-b0dd-67589d8b602c",
                     "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c715e52a-a029-49bf-bebb-9f224c93f3d8",
+                    "path": "<Gamepad>/start",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
